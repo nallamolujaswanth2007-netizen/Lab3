@@ -41,11 +41,11 @@ export const fetchAdultProducts = async () => {
       description: "Safe and smooth experience",
       price: 18,
       thumbnail: "https://th.bing.com/th/id/OIP.KtcsbO_nGMSR2qejoUVMhwHaEl?w=281&h=180&c=7&r=0&o=7&dpr=1.5&pid=1.7&rm=3"
-    }
-     {
-      id: 6,
+    },
+    {
+      id: 7,
       title: "Male condoms",
-      description: "Saftey and ",
+      description: "Saftey and comfort in one pack",
       price: 18,
       thumbnail: "https://th.bing.com/th/id/OIP.KtcsbO_nGMSR2qejoUVMhwHaEl?w=281&h=180&c=7&r=0&o=7&dpr=1.5&pid=1.7&rm=3"
     }
