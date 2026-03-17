@@ -5,7 +5,7 @@ import "./App.css";
 
 export default function App() {
   const [profile, setProfile] = useState({
-    name: " Johnnyson",
+    name: " Jaswanth",
     role: "Web Developer(Chrome)",
     status: "Active"
   });

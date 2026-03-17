@@ -1,7 +1,7 @@
 const users = [
-  { id: 1, name: "John sin", email: "johnsin@example.com", role: "Content Creator" },
-  { id: 2, name: "Gold Smith", email: "goldsmith@example.com", role: "Editor" },
-  { id: 3, name: "BrocLee", email: "broclee@example.com", role: "Cameramen" }
+  { id: 1, name: "Charan", email: "charan@123gmail.com", role: "UI engineer" },
+  { id: 2, name: "Yellaiah", email: "yellaiah@456gmail.com", role: "Data scientist" },
+  { id: 3, name: "Yeswanth", email: "yeswanth@789gmail.com", role: "ML engineer" }
 ];
 
 export default users;

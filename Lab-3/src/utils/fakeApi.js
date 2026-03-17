@@ -2,52 +2,39 @@ export const fetchAdultProducts = async () => {
   const products = [
     {
       id: 1,
-      title: "Luxury Massage Oil",
-      description: "Relaxing aromatic body oil",
-      price: 29,
-      thumbnail: "https://th.bing.com/th/id/OIP.vy2ylQlpXq03rvu724yi5QHaHa?w=177&h=187&c=7&r=0&o=7&dpr=1.5&pid=1.7&rm=3"
+      title: "Creatine",
+      description: "High-performance laptop for work and entertainment",
+      price: 1500,
+      thumbnail: "https://m.media-amazon.com/images/I/716durka4KL._AC_SL1500_.jpg"
     },
     {
       id: 2,
-      title: "Romantic Candle Set",
-      description: "Scented candles for warm ambiance",
-      price: 19,
-      thumbnail: "https://th.bing.com/th/id/OIP.pv_a6Ct4mqjJduhVE01ohQHaE8?w=231&h=180&c=7&r=0&o=7&dpr=1.5&pid=1.7&rm=3"
+      title: "Protien Powder",
+      description: "Premium quality protein powder for muscle growth and recovery",
+      price: 2500,
+      thumbnail: "https://cdn2.nutrabay.com/uploads/variant/images/featured_image-NB-NUT-1054-01-1753299710-400x400.webp"
     },
     {
       id: 3,
-      title: "Couple Card Game",
-      description: "Fun and intimate relationship game",
-      price: 35,
-      thumbnail: "https://th.bing.com/th/id/OIP.7AY8U4dRII7RDEgXRyr_LAHaEl?w=311&h=196&c=7&r=0&o=7&dpr=1.5&pid=1.7&rm=3"
-    },
-    {
-      id: 4,
-      title: "Silk Blindfold",
-      description: "Soft premium silk blindfold",
-      price: 15,
-      thumbnail: "https://th.bing.com/th/id/OIP.kHQC66ydOUFZryMF88qtsAHaE8?w=269&h=180&c=7&r=0&o=7&dpr=1.5&pid=1.7&rm=3"
-    },
-    {
-      id: 5,
-      title: "Elegant Lingerie Set",
-      description: "Comfortable and stylish design",
-      price: 49,
-      thumbnail: "https://th.bing.com/th/id/OIP.zeg7g2lGxbNFMyEM1UL6rQHaHa?w=202&h=202&c=7&r=0&o=7&dpr=1.5&pid=1.7&rm=3"
+      title: "Apple 17 series",
+      description: "Best Segment Mobile",
+      price: 200000,
+      thumbnail: "https://images.lifestyleasia.com/wp-content/uploads/sites/6/2025/09/10115247/Apple-iPhone-17-Pro-color-lineup-250909-900x900.jpg",
     },
     {
       id: 6,
-      title: "Water-Based Lubricant",
-      description: "Safe and smooth experience",
-      price: 18,
-      thumbnail: "https://th.bing.com/th/id/OIP.KtcsbO_nGMSR2qejoUVMhwHaEl?w=281&h=180&c=7&r=0&o=7&dpr=1.5&pid=1.7&rm=3"
+      title: "Sony Camera",
+      description: "Best Camera of the Year",
+      price: 110000,
+      thumbnail: "https://camera-review.co.uk/category/camera-review.co.uk/sony.webp"
     },
     {
       id: 7,
-      title: "Male condoms",
-      description: "Saftey and comfort in one pack",
-      price: 18,
-      thumbnail: "https://th.bing.com/th/id/OIP.X9fc70p0G5pbh93c1pNSMwHaE7?w=272&h=180&c=7&r=0&o=7&dpr=1.5&pid=1.7&rm=3"
+      title: "Mac book Air",
+      description: "Best for its securtiy",
+      price: 180000,
+      
+      thumbnail: "https://www.apple.com/newsroom/images/2023/10/apple-unveils-new-macbook-pro-featuring-m3-chips/article/Apple-MacBook-Pro-2up-231030_Full-Bleed-Image.jpg.large_2x.jpg",
     }
   ];
 
